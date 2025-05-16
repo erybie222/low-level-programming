@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eryk/Documents/low level programming in C/lab2/5'
+relocations:     []
+...
